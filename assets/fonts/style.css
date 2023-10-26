@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'ofont.ru_PF DinDisplay Pro';
+   font-display: swap;
+   src: url('ofont.ru_PF DinDisplay Pro/font.ttf');
+}
+@font-face {
+   font-family: 'RobotoFlex[slnt,wdth,wght,opsz]';
+   font-display: swap;
+   src: url('RobotoFlex[slnt,wdth,wght,opsz]/font.ttf');
+}
